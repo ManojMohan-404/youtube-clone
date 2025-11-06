@@ -152,6 +152,9 @@
         padding-left: 10px; /* Add some padding to the nav bar itself */
         padding-right: 10px;
     }
+    .logo {
+        height: 40px; /* Reduce logo size */
+    }
 
     .left .menu {
         margin-left: 0; /* Reduce margin for menu icon */
