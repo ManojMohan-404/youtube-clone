@@ -78,3 +78,15 @@ You will need a modern web browser like Google Chrome, Firefox, or Microsoft Edg
     ```
 3.  Open the `index.html` file in your web browser.
 
+## Future Improvements
+
+There are several ways this project could be expanded and improved in the future:
+
+-   **Add JavaScript Interactivity**: Implement functionality for the search bar, buttons, and sidebar navigation.
+-   **Implement Dark Mode**: Add a theme-switcher to toggle between light and dark modes.
+-   **Build Out More Pages**: Create the video player page and search results page.
+-   **API Integration**: Use the YouTube Data API to fetch and display real video data dynamically.
+
+## Thank You
+
+Thank you for checking out this YouTube Clone project.
