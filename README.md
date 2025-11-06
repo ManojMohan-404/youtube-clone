@@ -14,7 +14,7 @@ A live demo of the project can be found here: [YouTube Clone Demo](https://your-
 
 Here's a glimpse of what the project looks like:
 
-![YouTube Clone Screenshot](./media/screenshots/screenshot.png)
+![YouTube Clone Screenshot](./media/screenshot)
 
 *(Note: You'll need to add a screenshot of your project to the `media/screenshots/` directory for this to display.)*
 
@@ -73,7 +73,7 @@ You will need a modern web browser like Google Chrome, Firefox, or Microsoft Edg
 
 1.  Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/your-username/youtube-clone.git
+    git clone https://github.com/ManojMohan-404/youtube-clone.git
     ```
 2.  Navigate to the project directory:
     ```sh
