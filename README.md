@@ -18,6 +18,8 @@ Here's a glimpse of what the project looks like:
 ## Features
 
 -   **Navigation Bar**: A responsive top navigation bar that includes:
+-   **Fully Responsive Design**: The layout has been carefully crafted to adapt to different screen sizes, from large desktop monitors to small mobile screens.
+-   **Responsive Navigation Bar**: The top navigation bar adjusts its elements for smaller screens to maintain usability.
     -   YouTube logo and a menu icon.
     -   A search bar with search and voice search buttons, including tooltips.
     -   User-related icons for video upload, app options, notifications, and user profile.
