@@ -59,11 +59,16 @@
 
 /* Your 800px rule comes AFTER */
 @media (max-width: 800px) {
-  .grid { grid-template-columns: 1fr 1fr; }
+  .grid { grid-template-columns: 1fr 1fr 1fr;
 }
+
 @media (min-width: 801px) and (max-width: 999px) {
   .grid { grid-template-columns: 1fr 1fr 1fr; }
 }
+
 @media (min-width: 1000px) {
   .grid { grid-template-columns: 1fr 1fr 1fr 1fr; }
+    
+}
+
 }

@@ -52,6 +52,8 @@
     border: gray 1px solid;
     box-shadow: inset 1px 1px 3px rgba(0,0,0,0.5);
     width: 0;
+    box-shadow: inset 1px 1px 3px rgba(0,0,0,0.5); 
+    min-width: 0; /* Allow search bar to shrink */
 }
 
 .search-btn{
@@ -143,4 +145,35 @@
     height:  30px;
     border-radius: 50%;
 }
+ 
+/* Responsive adjustments for header */
+@media (max-width: 768px) {
+    .nav_bar {
+        padding-left: 10px; /* Add some padding to the nav bar itself */
+        padding-right: 10px;
+    }
+
+    .left .menu {
+        margin-left: 0; /* Reduce margin for menu icon */
+        margin-right: 10px;
+    }
+
+    .middle {
+        margin-left: 10px; /* Reduce margins for middle section */
+        margin-right: 10px;
+        max-width: none; /* Remove max-width constraint to allow it to fill space */
+    }
+
+    #search_bar {
+        width: 100%; /* Ensure it takes full width within its flex container */
+    }
+
+    .right {
+        width: auto; /* Allow width to be determined by content */
+        justify-content: flex-end; /* Align items to the end */
+        gap: 10px; /* Add some gap between icons */
+    }
+
+}
+
  
