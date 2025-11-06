@@ -8,15 +8,12 @@ A front-end clone of the YouTube homepage built with HTML and CSS, focusing on r
 
 A live demo of the project can be found here: [YouTube Clone Demo](https://youtube-clone-lq2.pages.dev/)
 
-*(Note: Replace the link above with your actual deployment link, for example, from GitHub Pages.)*
-
 ## Screenshots
 
 Here's a glimpse of what the project looks like:
 
 ![YouTube Clone Screenshot](/media/screenshot.png)
 
-*(Note: You'll need to add a screenshot of your project to the `media/screenshots/` directory for this to display.)*
 
 ## Features
 
@@ -81,12 +78,3 @@ You will need a modern web browser like Google Chrome, Firefox, or Microsoft Edg
     ```
 3.  Open the `index.html` file in your web browser.
 
-## Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-
-## License
-
-Distributed under the MIT License. See `LICENSE` file for more information.
