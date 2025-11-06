@@ -14,7 +14,7 @@ A live demo of the project can be found here: [YouTube Clone Demo](https://youtu
 
 Here's a glimpse of what the project looks like:
 
-![YouTube Clone Screenshot](/media/screenshot)
+![YouTube Clone Screenshot](/media/screenshot.png)
 
 *(Note: You'll need to add a screenshot of your project to the `media/screenshots/` directory for this to display.)*
 
