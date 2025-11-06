@@ -1,6 +1,6 @@
 # YouTube Clone
 
-A front-end clone of the YouTube homepage built with HTML and CSS, focusing on replicating the core layout and design of the video browsing interface.
+A front-end clone of the YouTube homepage UI built with HTML and CSS, focusing on replicating the core layout and design of the video browsing interface.
 
 ---
 
