@@ -6,7 +6,7 @@ A front-end clone of the YouTube homepage built with HTML and CSS, focusing on r
 
 ## Live Demo
 
-A live demo of the project can be found here: [YouTube Clone Demo](https://your-username.github.io/youtube-clone/)
+A live demo of the project can be found here: [YouTube Clone Demo](https://youtube-clone-lq2.pages.dev/)
 
 *(Note: Replace the link above with your actual deployment link, for example, from GitHub Pages.)*
 
@@ -14,7 +14,7 @@ A live demo of the project can be found here: [YouTube Clone Demo](https://your-
 
 Here's a glimpse of what the project looks like:
 
-![YouTube Clone Screenshot](./media/screenshot)
+![YouTube Clone Screenshot](/media/screenshot)
 
 *(Note: You'll need to add a screenshot of your project to the `media/screenshots/` directory for this to display.)*
 
